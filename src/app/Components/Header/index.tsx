@@ -1,8 +1,10 @@
 const Header = () => {
     return (
         <>
+            
             <header>
-                <p>Aqui vai o header</p>
+            <img className="logocinema" src="logo-cinema2.png" alt="CineClub" />
+                <p className="title1">Os melhores filmes estão aqui</p>
             </header>
         </>
     );

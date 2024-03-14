@@ -16,6 +16,36 @@
   }
 }
 
-body {
-  
+body {}
+
+header {
+  background-color: black;
+  display: flex;
+  align-items: center;
+  padding: 20px;
+}
+
+.title1 {
+  color: white;
+  margin-left: 500px;
+  font-size: 2em;
+}
+
+.logocinema {
+  width: 100px;
+  height: 100px;
+}
+
+
+footer {
+  background-color: black;
+  display: flex;
+  align-items: center;
+  padding: 20px;
+}
+
+.footer-text {
+  color: white;
+  margin-left: 45%;
+  font-size: 12px;
 }

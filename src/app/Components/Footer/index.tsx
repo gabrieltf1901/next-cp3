@@ -2,7 +2,7 @@ const Footer = () => {
     return (
         <>
             <footer>
-                <p>Todos os direitos reservados</p>
+                <p className="footer-text">Todos os direitos reservados</p>
             </footer>
         </>
     );
